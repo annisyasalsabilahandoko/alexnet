@@ -1,1 +1,1 @@
-# image-calssification-alexnet
+# image-classification-alexnet
