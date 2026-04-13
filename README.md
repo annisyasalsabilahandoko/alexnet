@@ -1,1 +1,1 @@
-# image-calssificatio-alexnet
+# image-calssification-alexnet
